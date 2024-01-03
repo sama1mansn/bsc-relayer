@@ -16,6 +16,8 @@ require (
 	github.com/stretchr/testify v1.5.1
 	github.com/tendermint/go-amino v0.14.1
 	github.com/tendermint/tendermint v0.32.3
+	github.com/op/go-logging v0.0.0-20160315200505-970db520ece7
+	github.com/shopspring/decimal v1.2.0
 	gopkg.in/natefinch/lumberjack.v2 v2.0.0
 )
 
